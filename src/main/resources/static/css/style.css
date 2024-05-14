@@ -1,0 +1,11 @@
+
+.sec2{
+    border: 3px solid royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: left;
+    width: 2;
+}
+
+.leftC{
+    clear: left;
+}
